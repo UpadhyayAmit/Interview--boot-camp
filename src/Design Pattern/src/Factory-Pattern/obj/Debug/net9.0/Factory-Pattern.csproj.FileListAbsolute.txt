@@ -1,0 +1,15 @@
+C:\Users\upadh\source\repos\UpadhyayAmit\Interview-boot-camp\src\Design Pattern\src\Factory-pattern\bin\Debug\net9.0\Factory-Pattern.exe
+C:\Users\upadh\source\repos\UpadhyayAmit\Interview-boot-camp\src\Design Pattern\src\Factory-pattern\bin\Debug\net9.0\Factory-Pattern.deps.json
+C:\Users\upadh\source\repos\UpadhyayAmit\Interview-boot-camp\src\Design Pattern\src\Factory-pattern\bin\Debug\net9.0\Factory-Pattern.runtimeconfig.json
+C:\Users\upadh\source\repos\UpadhyayAmit\Interview-boot-camp\src\Design Pattern\src\Factory-pattern\bin\Debug\net9.0\Factory-Pattern.dll
+C:\Users\upadh\source\repos\UpadhyayAmit\Interview-boot-camp\src\Design Pattern\src\Factory-pattern\bin\Debug\net9.0\Factory-Pattern.pdb
+C:\Users\upadh\source\repos\UpadhyayAmit\Interview-boot-camp\src\Design Pattern\src\Factory-pattern\obj\Debug\net9.0\Factory-Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\upadh\source\repos\UpadhyayAmit\Interview-boot-camp\src\Design Pattern\src\Factory-pattern\obj\Debug\net9.0\Factory-Pattern.AssemblyInfoInputs.cache
+C:\Users\upadh\source\repos\UpadhyayAmit\Interview-boot-camp\src\Design Pattern\src\Factory-pattern\obj\Debug\net9.0\Factory-Pattern.AssemblyInfo.cs
+C:\Users\upadh\source\repos\UpadhyayAmit\Interview-boot-camp\src\Design Pattern\src\Factory-pattern\obj\Debug\net9.0\Factory-Pattern.csproj.CoreCompileInputs.cache
+C:\Users\upadh\source\repos\UpadhyayAmit\Interview-boot-camp\src\Design Pattern\src\Factory-pattern\obj\Debug\net9.0\Factory-Pattern.sourcelink.json
+C:\Users\upadh\source\repos\UpadhyayAmit\Interview-boot-camp\src\Design Pattern\src\Factory-pattern\obj\Debug\net9.0\Factory-Pattern.dll
+C:\Users\upadh\source\repos\UpadhyayAmit\Interview-boot-camp\src\Design Pattern\src\Factory-pattern\obj\Debug\net9.0\refint\Factory-Pattern.dll
+C:\Users\upadh\source\repos\UpadhyayAmit\Interview-boot-camp\src\Design Pattern\src\Factory-pattern\obj\Debug\net9.0\Factory-Pattern.pdb
+C:\Users\upadh\source\repos\UpadhyayAmit\Interview-boot-camp\src\Design Pattern\src\Factory-pattern\obj\Debug\net9.0\Factory-Pattern.genruntimeconfig.cache
+C:\Users\upadh\source\repos\UpadhyayAmit\Interview-boot-camp\src\Design Pattern\src\Factory-pattern\obj\Debug\net9.0\ref\Factory-Pattern.dll
