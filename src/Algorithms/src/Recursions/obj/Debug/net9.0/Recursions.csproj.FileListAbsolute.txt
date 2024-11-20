@@ -1,0 +1,15 @@
+C:\Users\upadh\source\repos\UpadhyayAmit\Interview-boot-camp\src\Algorithms\src\Recursions\obj\Debug\net9.0\Recursions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\upadh\source\repos\UpadhyayAmit\Interview-boot-camp\src\Algorithms\src\Recursions\obj\Debug\net9.0\Recursions.AssemblyInfoInputs.cache
+C:\Users\upadh\source\repos\UpadhyayAmit\Interview-boot-camp\src\Algorithms\src\Recursions\obj\Debug\net9.0\Recursions.AssemblyInfo.cs
+C:\Users\upadh\source\repos\UpadhyayAmit\Interview-boot-camp\src\Algorithms\src\Recursions\obj\Debug\net9.0\Recursions.csproj.CoreCompileInputs.cache
+C:\Users\upadh\source\repos\UpadhyayAmit\Interview-boot-camp\src\Algorithms\src\Recursions\obj\Debug\net9.0\Recursions.sourcelink.json
+C:\Users\upadh\source\repos\UpadhyayAmit\Interview-boot-camp\src\Algorithms\src\Recursions\bin\Debug\net9.0\Recursions.exe
+C:\Users\upadh\source\repos\UpadhyayAmit\Interview-boot-camp\src\Algorithms\src\Recursions\bin\Debug\net9.0\Recursions.deps.json
+C:\Users\upadh\source\repos\UpadhyayAmit\Interview-boot-camp\src\Algorithms\src\Recursions\bin\Debug\net9.0\Recursions.runtimeconfig.json
+C:\Users\upadh\source\repos\UpadhyayAmit\Interview-boot-camp\src\Algorithms\src\Recursions\bin\Debug\net9.0\Recursions.dll
+C:\Users\upadh\source\repos\UpadhyayAmit\Interview-boot-camp\src\Algorithms\src\Recursions\bin\Debug\net9.0\Recursions.pdb
+C:\Users\upadh\source\repos\UpadhyayAmit\Interview-boot-camp\src\Algorithms\src\Recursions\obj\Debug\net9.0\Recursions.dll
+C:\Users\upadh\source\repos\UpadhyayAmit\Interview-boot-camp\src\Algorithms\src\Recursions\obj\Debug\net9.0\refint\Recursions.dll
+C:\Users\upadh\source\repos\UpadhyayAmit\Interview-boot-camp\src\Algorithms\src\Recursions\obj\Debug\net9.0\Recursions.pdb
+C:\Users\upadh\source\repos\UpadhyayAmit\Interview-boot-camp\src\Algorithms\src\Recursions\obj\Debug\net9.0\Recursions.genruntimeconfig.cache
+C:\Users\upadh\source\repos\UpadhyayAmit\Interview-boot-camp\src\Algorithms\src\Recursions\obj\Debug\net9.0\ref\Recursions.dll
